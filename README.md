@@ -1,6 +1,10 @@
 # Chatbot
 Chatbot is implemeted in ./LLMsIntro/chatbot.py
 
+### How to run 
+
+uv run chatbot.py
+
 # Repo and Dependencies Installations commands 
 
 Resource Links: 
